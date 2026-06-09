@@ -1,0 +1,26 @@
+The Unofficial CS Department Survival Guide
+(written by students, for students — not endorsed by the department)
+
+INTRO COURSES
+For CS101, take Mehta if you can. Her lectures are recorded, the curve is generous, and her office hours actually help. Other intro sections are hit or miss with adjuncts. If Mehta's section is full when you register, get on the waitlist anyway — closed sections open up in the first week as people shuffle schedules.
+
+THE REGISTRATION LOTTERY
+Registration is a lottery and it's stressful. Tips that actually work: have a backup schedule ready before your slot opens, because popular sections fill in minutes. Refresh the closed sections during the first week of classes — students drop constantly and seats reopen. Email the professor directly and politely if a section you need is full; some will issue permission numbers if you explain you need it to graduate on time. Don't spam them, one polite email.
+
+GETTING INTO CLOSED SECTIONS
+Show up to the first lecture in person even if you're not enrolled. Professors notice persistence. Bring an add form. Rodriguez and Mehta have both let dedicated students in this way. Kim will not — his prerequisite is strictly enforced and he won't budge, so don't bother trying to talk your way past it.
+
+HELPFUL TAs
+Marcus (CS101) is the standout — patient, knows the autograder quirks cold, and will sit with you until it clicks. The DS301 TAs are competent but the office hours are always slammed, so come with specific questions. For ML450, lean on your project teammates as much as the TAs.
+
+THE JUNIOR PROJECT REQUIREMENT
+Start scoping your junior project the semester before. The most common mistake is picking something too ambitious and scrambling at the end. Talk to a professor whose research interests overlap with your idea early — they make better advisors when they're invested.
+
+RECOMMENDED COURSE SEQUENCES
+Take CS101 → DS301 before anything upper-division. DS301 is the gate; everything (OS, ML, Compilers) assumes you know it cold. Web220 can be taken pretty much any time after CS101 since it's self-contained.
+
+COMMON PITFALLS — READ THIS
+Do NOT take OS410 and Compilers in the same semester. This is the single most repeated warning in the department. Both have 20+ hour assignment loads and they will overlap, and you will have no life and probably a worse grade in both. Spread your hard systems courses out.
+
+OFFICE HOURS ETIQUETTE
+Come with specific questions, not "I'm stuck on everything." Try the problem first and bring what you've tried. Go early before the line forms. Don't ask the professor to basically do the assignment for you — they can tell, and word gets around. Mehta in particular uses a Socratic style and won't hand you answers, so come ready to think out loud.

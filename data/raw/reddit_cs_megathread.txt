@@ -1,0 +1,38 @@
+r/UniversityCS Megathread: "What do you wish you knew before taking upper-division CS?"
+(compiled top replies)
+
+u/segfault_again: Wish someone told me that professor style matters more than the course topic. I took an elective I loved with a bad prof and hated it, and a topic I didn't care about with a great prof and it became my favorite. Pick the professor, not just the class.
+
+u/recursion_fairy: Workload warning — DS301 with Chen is 10-15 hours PER assignment. Do not stack it with another heavy course. I learned this the painful way.
+
+u/late_night_compiler: Hidden requirement nobody mentions: a lot of upper-div classes assume you're fluent in git and the command line. Nobody teaches it, they just expect it. Learn it over a summer.
+
+u/gradequest: Regrade requests — be polite, be specific, and cite the rubric. "I think problem 3 deserves more credit because my approach matches the rubric's partial-credit criteria" works. "I deserve more points" does not. Chen actually gives generous partial credit so it's worth asking on his exams.
+
+u/heap_overflow: Don't take OS410 and Compilers together. I see this warning every year and every year someone ignores it. Be the person who listens.
+
+u/intern_szn: Internship recruiting starts WAY earlier than you think. Big companies open applications in August/September for the following summer. If you wait until spring you've missed most of it. Have your resume ready by sophomore fall.
+
+u/mehta_stan: Take Mehta for CS101. Recorded lectures, generous curve (~10 pts), extra credit for research talks. Easiest good professor to learn from.
+
+u/dropit_likeits_hot: When to drop vs push through — if you're below the median at the midterm AND you're miserable AND it's not required, drop. If it's required or you're just stressed but keeping up, push through. Don't let one rough class tank your GPA out of stubbornness.
+
+u/okafor_survivor: ML450 assumes serious math. If linalg and probability aren't solid, take them first or you'll suffer. Great class if you're prepared.
+
+u/honor_code_paranoid: Academic dishonesty policies are no joke here. Collaboration rules differ per class — Chen allows discussing approaches but not code, others ban all collaboration. READ the syllabus policy. People get caught every semester over shared code and it follows you.
+
+u/passfail_pro: You can take some courses pass/fail to protect your GPA. Check which ones count for the major first — not all do. Grade distribution notes floating around suggest OS410 has a meaningful D/F rate, so some people pass/fail it if their schedule allows.
+
+u/kim_kernel: OS with Kim — start assignments the DAY they post. 20+ hours each. Open-note exams but still hard. Worth it for systems jobs.
+
+u/elective_picker: Pick electives based on your career goal, not what's easy. ML450 for ML roles, Web220 for industry/full-stack, OS410 for systems/infra. The "easy A" elective looks like nothing on a resume.
+
+u/rodriguez_fan: Web220 is the most practical class. Real full-stack project, guest speakers, super responsive prof. Took it junior year, used the project in every interview.
+
+u/curve_truther: Not every class curves. Chen does NOT curve, Mehta does (~10 pts). Know before the final whether you're being curved, it changes how you study.
+
+u/ta_appreciator: Marcus the CS101 TA is a legend. If you're in 101 and struggling, his hours are better than gold.
+
+u/sequence_nerd: Do CS101 then DS301 before anything else. DS301 is the prerequisite-in-spirit for everything even when it's not officially listed.
+
+u/burned_out_senior: Spread your hard classes out. One killer course per semester max. I front-loaded too many and burned out junior year. GPA and sanity both took the hit.

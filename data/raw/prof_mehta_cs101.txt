@@ -1,0 +1,32 @@
+Professor Ananya Mehta — Introduction to Computer Science (CS101)
+Student Reviews
+
+Review 1:
+Honestly one of the best intro professors in the department. Mehta explains everything clearly and she records every lecture, which saved me during midterm week when I had three exams stacked on the same day. The exams are straightforward if you did the homework, but they are SUPER time-pressured. I knew the material and still ran out of time on the last problem.
+
+Review 2:
+The curve is real and it's generous — I think it was around 10 points the semester I took it. I went into the final convinced I bombed it and ended up with a B+. Office hours are where she shines. Go even if you think your question is dumb.
+
+Review 3:
+Homework is autograded which is mostly fine but the autograder is buggy sometimes. One assignment marked my correct solution wrong because of a trailing whitespace thing and a bunch of us had to email her. She fixed it and regraded, no drama, but start early so you have time to deal with that.
+
+Review 4:
+Midterm is basically loops and recursion. If you can trace a recursive function by hand you'll be fine. The final is cumulative though, so don't dump everything from the first half after the midterm like I did.
+
+Review 5:
+She gives extra credit for attending the department research talks on Thursdays. It's only a couple points but in a class with a curve those points matter. Plus the talks are actually kind of interesting even as a freshman.
+
+Review 6:
+Slightly negative take: the time pressure on exams is rough if you're a slow test-taker. I wish she gave 15 more minutes. The content isn't hard, the clock is the hard part. Otherwise great class.
+
+Review 7:
+Mehta is patient and never makes you feel stupid for asking. She uses a Socratic style in office hours so she won't just hand you the answer, which annoyed me at first but I learned way more this way. Her TA Marcus is also super helpful.
+
+Review 8:
+Took this as a non-major to fulfill a requirement and actually ended up switching into CS because of how she taught. The recursion unit finally made it click for me. Generous curve, fair exams, helpful office hours. Can't recommend enough.
+
+Review 9:
+Be warned the autograder bugs cost me a few hours total over the semester. Not a dealbreaker but annoying. Everything else is great. The recorded lectures are a lifesaver if you have a conflict or just need to rewatch the recursion stuff.
+
+Review 10:
+Solid class. Exams are time-pressured but the curve and extra credit research talks balance it out. If you participate in lecture she remembers you, which helped when I needed a recommendation later.

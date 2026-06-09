@@ -1,0 +1,32 @@
+Professor Kevin Chen — Data Structures and Algorithms (DS301)
+Student Reviews
+
+Review 1:
+Chen is a notoriously hard grader and there is NO curve. What you earn is what you get. That said, I learned more in this class than any other CS class I've taken. It's hard in the way that actually makes you better.
+
+Review 2:
+The coding assignments are brutal — budget 10 to 15 hours each, no joke. I thought I was fast and they still ate my whole weekend. Start them the day they're posted. If you wait until Wednesday for a Friday deadline you will not finish.
+
+Review 3:
+Exams are handwritten pseudocode. No IDE, no laptop, you write algorithms by hand on paper. It feels archaic but it forces you to actually understand the logic instead of leaning on autocomplete. Partial credit is generous though, so write SOMETHING even if you're not sure.
+
+Review 4:
+Office hours are always crowded because everyone needs help. Get there early. The upside is Chen answers emails within 24 hours, usually faster, so if you're stuck at 11pm you can email and have an answer by morning.
+
+Review 5:
+No curve sounds scary but the partial credit on exams saves you. I got like half credit on a problem I barely attempted because my approach was on the right track. He grades the thinking, not just the final answer.
+
+Review 6:
+This is the most important class I took in undergrad. Everything in upper-division builds on it. If you half-learn data structures here you will suffer in OS and ML later. Take it seriously.
+
+Review 7:
+Hard but fair. He's not trying to trick you on exams, the questions are exactly the kind of problems you practiced. The difficulty is the volume and depth, not gotchas. Handwritten pseudocode threw me at first but you adjust.
+
+Review 8:
+Slightly negative: the workload is genuinely unsustainable if you're taking 4 other classes. I had to drop a club because of the time the assignments took. Worth it academically but go in with your schedule cleared.
+
+Review 9:
+Chen responds to every email within a day even on weekends. That responsiveness is the only reason I survived the graph assignment. Crowded office hours though — if you can't make it, email is honestly more reliable.
+
+Review 10:
+The hardest grader I've had and somehow my favorite professor. No curve, generous partial credit, handwritten exams, 10-15 hour assignments. You come out the other side actually knowing data structures cold.

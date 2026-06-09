@@ -1,0 +1,23 @@
+Student Observations on Grade Distributions Across Common CS Courses
+(informal, anecdotal — these are student impressions, not official registrar data)
+
+CS101 — MEHTA
+Averages around a B+. With the generous ~10-point curve and the research-talk extra credit, most engaged students land in the B+ to A- range. It's hard to do badly here if you show up, do the autograded homework, and use office hours. One of the friendlier distributions in the department.
+
+DS301 — CHEN
+Averages a B- BEFORE any curve — and there is NO curve, so that B- is what it is. This is the reality check course. The generous partial credit on exams keeps people off the rocks, but the heavy assignments and hard grading pull the average down. Don't expect the curve to save you because it doesn't exist.
+
+ML450 — OKAFOR
+Grades almost entirely on project quality, so the variance is HIGH. There's no tidy average — strong projects pull As, weak or poorly-teamed projects drop well below. Your grade depends enormously on your project and your teammates. If you want a predictable grade this isn't it; if you build something strong, you're rewarded.
+
+WEB220 — RODRIGUEZ
+Rarely gives below a B if you actually engage. The grading rewards participation, iteration, and shipping a working full-stack project. The distribution skews high not because it's easy but because the structure (15% participation, project-based, code-review feedback loops) rewards consistent effort over the semester. Coast and you'll still suffer; engage and you're fine.
+
+OS410 — KIM
+The scary one. Historically has a 15-20% D/F rate — the highest of these courses by far. Fair but unforgiving grading plus 20+ hour kernel assignments means people who start late or don't have the DS301 foundation genuinely fail. This is the course where the warnings are real. Respect it.
+
+WHICH COURSES TO TAKE PASS/FAIL
+If your schedule allows and the course isn't a major requirement for a letter grade, OS410 is the one people most often consider taking pass/fail to protect GPA, given that D/F rate. Check major requirements first — not every course counts toward the degree on a pass/fail basis. Web220 and CS101 are generally NOT worth pass/failing since the distributions are favorable anyway.
+
+NOTES ON LATE DROPS
+Professors vary on late drops. Rodriguez and Mehta are generally understanding about late drops if you talk to them early and have a legitimate reason. Kim is stricter and expects you to know by the prereq stage whether you're ready. The general rule from the survival guide applies: decide by the midterm, and if you're going to drop OS410, do it before the late-drop deadline rather than gambling on the back half.

@@ -1,0 +1,32 @@
+Professor Nnamdi Okafor — Machine Learning (ML450)
+Student Reviews
+
+Review 1:
+Very research-focused class. Okafor treats it almost like a grad seminar. If you want to go into ML for your career this is THE class to take — I cited my project from this course in every internship interview and it landed me an offer.
+
+Review 2:
+Heads up: he assumes a strong math background. Linear algebra and probability are not optional. If you're shaky on eigenvectors and conditional probability you will drown in the first three weeks. Brush up before the semester starts.
+
+Review 3:
+Grading is 70% project. There are no big exams really, it's all about what you build. This is great if you're a builder and stressful if you like the security of a study guide. The project can be done in teams of 2-3.
+
+Review 4:
+Weekly paper readings, and you actually have to do them. Attendance isn't tracked but the quizzes reference stuff that only came up in discussion, so skipping class is a trap. I skipped twice and tanked two quizzes because of it.
+
+Review 5:
+Highly recommended if you're serious about ML. Not recommended if you just need an elective to fill a slot — the workload to grade ratio is rough for casual interest. Know what you're signing up for.
+
+Review 6:
+The team project is the highlight. My group of three built a recommendation system and Okafor gave us genuinely useful research-level feedback. He pushes you to read current papers and apply them, not just reimplement sklearn.
+
+Review 7:
+Math heavy, project heavy, reading heavy. But I've never learned more about how ML actually works under the hood. The quizzes keep you honest about the paper readings. Go to discussion.
+
+Review 8:
+Slightly negative: because 70% is the project, your grade has high variance depending on your teammates. Pick your group carefully. A weak teammate can really hurt you when the project is most of the grade.
+
+Review 9:
+If you're an undergrad without linear algebra and probability locked in, take those first. Okafor will not slow down for you. But if you have the background, this class is the best preparation for an ML career the department offers.
+
+Review 10:
+Research-focused, paper-driven, team project worth 70%. Quizzes tie back to discussion so don't skip. Strong math assumed. For ML-career students it's a must; for everyone else it might be too much.

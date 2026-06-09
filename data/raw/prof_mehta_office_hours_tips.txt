@@ -1,0 +1,23 @@
+How to Win at Professor Mehta's Office Hours (and CS101 in general)
+crowdsourced tips from former CS101 students
+
+TIMING IS EVERYTHING
+Go in the first 30 minutes before the line gets long. Mehta's office hours fill up fast, especially the week before exams. If you show up at the start you'll usually get one-on-one time; show up halfway through and you're waiting 40 minutes for five rushed minutes. The early bird genuinely gets the help here.
+
+THE FRIDAY SESSION IS A SECRET WEAPON
+Everyone piles into the Tuesday office hours, so the Friday session is way less crowded. If your question isn't urgent, save it for Friday and you'll basically get a private tutoring session. Tuesdays are a zoo, Fridays are calm.
+
+BRING SPECIFIC QUESTIONS
+Do not walk in and say "I'm stuck" or "I don't get recursion." Bring a specific question: "I traced this recursive function to here and got this value but expected that — where's my logic wrong?" Mehta engages way more when you've clearly tried. Vague questions get vague Socratic prompts; specific questions get real help.
+
+SHE USES THE SOCRATIC METHOD
+Important to know going in: Mehta will NOT just give you the answer. She asks you questions until you find it yourself. This is frustrating the first time if you just want the solution, but it's why her students actually understand recursion instead of memorizing it. Come ready to think out loud and be guided, not spoon-fed.
+
+DON'T SLEEP ON MARCUS
+Her TA Marcus also holds office hours and he is excellent — arguably more available than Mehta herself since his hours are less mobbed. He knows the autograder's quirks inside out, so if your correct code is getting marked wrong, Marcus is the person to see. Between Mehta's Friday session and Marcus's hours, you have two low-traffic ways to get great help.
+
+PARTICIPATE IN LECTURE
+Mehta remembers students who participate. It's not about points — she genuinely recognizes you, which makes office hours warmer and matters later if you ever need a recommendation letter. Answer a question now and then, even if you're not sure. She rewards engagement with attention.
+
+GENERAL CS101 SURVIVAL
+Watch the recorded lectures again before exams — the recursion unit especially clicks the second time. Do the autograded homework early so you have buffer time when the autograder bugs out (it does, occasionally). And grab the research-talk extra credit on Thursdays; in a curved class those few points are free GPA insurance.

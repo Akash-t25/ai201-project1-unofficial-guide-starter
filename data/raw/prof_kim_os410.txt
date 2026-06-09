@@ -1,0 +1,32 @@
+Professor Jae-Won Kim — Operating Systems (OS410)
+Student Reviews
+
+Review 1:
+OS410 is widely considered the hardest CS course in the department, and Kim does not make it easier. The assignments are kernel programming — you're writing real systems code, not toy problems. It's a different level of difficulty from everything before it.
+
+Review 2:
+START EARLY. I cannot say this loud enough. The assignments take 20+ hours each and that's if nothing goes wrong, which it always does. A friend started the scheduler assignment two days before it was due and ended up taking a zero. Don't be that person.
+
+Review 3:
+Exams are open-note but still difficult. Don't let "open-note" fool you into not studying. If you don't already understand the material, flipping through your notes during the exam won't save you. The notes help, they don't replace understanding.
+
+Review 4:
+Kim does live coding in class and it's the best part. Watching him debug a race condition in real time taught me more than any slide deck. He makes mistakes live and walks through fixing them, which is weirdly reassuring.
+
+Review 5:
+The prerequisite is strictly enforced — they actually check that you passed Data Structures with a decent grade. Don't try to sneak in without it. The course assumes you're solid on everything from DS301 and builds straight up from there.
+
+Review 6:
+Grading is fair but unforgiving. There's no fluff, no easy points. If your kernel code doesn't work, it doesn't work, and partial credit is limited because systems code either runs or it doesn't. Fair in that it's never arbitrary, unforgiving in that it never goes easy.
+
+Review 7:
+Worth it if you want a systems or infrastructure role. I put the OS assignments on my resume and every systems-focused interviewer wanted to talk about them. The pain pays off if that's your career direction.
+
+Review 8:
+Slightly negative: the workload nearly broke me. Taking this alongside Compilers was a mistake — see the survival guide, it warns you not to. If I could redo it I'd take OS with a lighter semester around it.
+
+Review 9:
+Open-note exams, live coding lectures, strictly enforced prereq, 20+ hour kernel assignments. Hardest class in the major and also the one that made me feel like a real engineer. Start the assignments the day they drop.
+
+Review 10:
+Fair but unforgiving grading, brutal kernel programming, and the most rewarding class I've taken. If you're going into systems, it's essential. If you're not, know that it will dominate your semester. Plan accordingly.

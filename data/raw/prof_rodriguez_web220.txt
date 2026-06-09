@@ -1,0 +1,32 @@
+Professor Elena Rodriguez — Web Development (WEB220)
+Student Reviews
+
+Review 1:
+This class is the most industry-relevant course I took. You build a full-stack app over the whole semester — React on the front end, Node on the back, PostgreSQL for the database. By the end you have an actual portfolio project to show recruiters.
+
+Review 2:
+No traditional exams at all. It's entirely project-based, which I loved. You're graded on what you ship. If you hate sitting for exams this is your class. If you procrastinate on long projects, be careful, there's nothing to cram the night before.
+
+Review 3:
+Rodriguez is strict about code review quality. She'll send your PR back if your commits are messy or you didn't write tests. Annoying in the moment but it's exactly how it works at an actual job, so I appreciated it later during my internship.
+
+Review 4:
+Participation counts 15% of the grade, so show up and engage. She brings in guest speakers from local tech companies almost every other week and those sessions are genuinely worth attending — one of them turned into a networking connection for me.
+
+Review 5:
+She is incredibly responsive on Slack. I'd post a question at night and get a thoughtful answer, sometimes with a code snippet, within an hour or two. Best professor communication I've experienced in the department.
+
+Review 6:
+The React/Node/PostgreSQL stack is exactly what companies use, so this class basically doubled as interview prep. The full-stack project came up in three of my interviews. Industry-relevant is not an exaggeration here.
+
+Review 7:
+Slightly negative: the code review strictness can slow you down if you're new to git. My first two PRs got bounced for messy commit history. Once you learn her standards it's fine, but the early weeks have a learning curve.
+
+Review 8:
+Guest speakers + Slack responsiveness + a real portfolio project = the most practical class in the major. Participation being 15% means you can't just coast on code, you have to actually show up and talk.
+
+Review 9:
+If you engage with the material she rarely gives below a B. The grading rewards effort and iteration, not just raw talent. The code review feedback loop actually makes you a better engineer by the end.
+
+Review 10:
+Project-based, no exams, 15% participation, strict code review, super responsive on Slack, great guest speakers. If you want a job after graduation, take this class. Industry-relevant from week one.

@@ -1,0 +1,24 @@
+Crowdsourced Exam Prep Notes — Professor Chen's Data Structures (DS301)
+compiled from past students' shared notes
+
+WHAT SHOWS UP ON THE MIDTERM (most to least frequent)
+Sorting algorithms come up every single midterm — know merge sort and quicksort cold, including their time complexities and when each wins. Tree traversals are guaranteed: in-order, pre-order, post-order, and be able to do them by hand on a drawn tree. Graph BFS and DFS appear nearly every year, usually as a "trace the traversal order from this start node" problem. If you nail sorting, tree traversals, and BFS/DFS, you've covered the bulk of the midterm.
+
+COMMON MISTAKES — HEAPS
+Students consistently mess up heaps. The classic error is bungling the sift-down after removing the root — people forget to compare against BOTH children and swap with the smaller (for a min-heap). Practice heapify by hand until it's automatic. Also don't confuse a binary heap with a binary search tree; they have different ordering properties and the exam loves to test whether you know the difference.
+
+COMMON MISTAKES — HASH TABLES
+The other big trap is hash table collision handling. Know chaining vs. open addressing and be able to walk through a linear-probing insertion step by step. People lose points by hand-waving "it goes in the next slot" instead of showing the probe sequence. Show your work.
+
+HOW CHEN GRADES PSEUDOCODE
+Critical: correctness matters more than syntax. Chen grades the algorithmic logic, not whether your pseudocode compiles. You will not lose points for a missing semicolon or slightly informal notation as long as the logic is right and clearly expressed. Conversely, perfectly formatted pseudocode with a logic error gets dinged hard. Focus your study on getting the algorithm right, not on memorizing exact syntax.
+
+PAST EXAM TOPICS (from memory, may vary)
+- Midterm: merge sort trace, BST insertion + deletion, BFS order from a given node, heap insert/extract-min, hash table with linear probing.
+- Final: everything from the midterm PLUS dynamic programming, amortized analysis, and a graph shortest-path problem.
+
+TIME MANAGEMENT ON THE 90-MINUTE EXAM
+You get 90 minutes and it's tight. Budget roughly: skim all problems first (2 min), then attack the ones you're confident on to lock in points, and leave the longest tracing problem for when you have momentum. Don't get stuck — if a problem stalls you for more than 8-9 minutes, write down your partial approach (remember partial credit is generous) and move on. Coming back later is better than burning the clock.
+
+THE FINAL — DON'T GET BLINDSIDED
+One thing every past student stresses: dynamic programming appears every year on the final. It is essentially guaranteed. If you only deeply study one extra topic for the final beyond the midterm material, make it DP. People who skip it because it "might not show up" regret it every single year — it always shows up.
